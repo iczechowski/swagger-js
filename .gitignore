@@ -21,3 +21,5 @@ capybara-*.html
 /spec/tmp/*
 **.orig
 *.idea
+node_modules
+swagger-js.iml
